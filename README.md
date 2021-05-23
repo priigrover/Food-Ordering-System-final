@@ -1,4 +1,4 @@
-# Food-Ordering-System
+# Food Ordering System
 screenshots of the web app are given below:
 To open project download the zip file and extract in the drive in which django/pip is installed and run using VS code terminal/cmd after migration.
 after heading over to file location--> 
