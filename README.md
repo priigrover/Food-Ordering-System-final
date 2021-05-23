@@ -1,4 +1,5 @@
-# Food-Ordering-System-final
+# Food-Ordering-System
+these are the screenshots of the web app
 ![image](https://user-images.githubusercontent.com/65162819/119260609-3247a280-bbf1-11eb-8760-89ff97bd14df.png)
 ![image](https://user-images.githubusercontent.com/65162819/119260616-3a9fdd80-bbf1-11eb-90dd-ede8a419ed88.png)
 ![image](https://user-images.githubusercontent.com/65162819/119260629-54412500-bbf1-11eb-8d57-2a1a6ace68e0.png)
